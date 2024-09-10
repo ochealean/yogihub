@@ -156,6 +156,7 @@ header {
     text-align: center;
     margin: 50px 0;
     color: #1C2735;
+    overflow:hidden;
 }
 
 .cards-section h2 {
@@ -222,6 +223,7 @@ header {
     text-align: center;
     background-color: #D6E5E3;
     color: #1C2735;
+    overflow:hidden;
 }
 
 .testimonials-section h2 {
@@ -277,6 +279,7 @@ header {
     text-align: center;
     margin: 50px 0;
     color: #1C2735;
+    overflow:hidden;
 }
 
 .instructors-section:hover .is-header{
