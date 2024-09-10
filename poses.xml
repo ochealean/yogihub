@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<poses>
+    <pose>
+        <name>Mountain Pose</name>
+        <description>
+            Mountain Pose, or Tadasana, is a foundational yoga pose that focuses on grounding and alignment. 
+            Stand tall with feet together, arms relaxed by your sides, and shoulders rolled back. Engage the 
+            thighs, lift the chest, and lengthen the spine, imagining yourself as a steady mountain. This pose 
+            improves posture, balance, and concentration. It also strengthens the thighs, knees, and ankles, tones 
+            the abdomen, and reduces flat feet. Practicing Mountain Pose regularly can instill a sense of calm and 
+            stability in both body and mind.
+        </description>
+        <benefits>
+            Mountain Pose helps improve posture, balance, and concentration. It strengthens the thighs, 
+            knees, and ankles, tones the abdomen, and reduces flat feet. Additionally, it instills a sense of 
+            calm and stability in both body and mind.
+        </benefits>
+        <difficulty>Easy</difficulty>
+        <image>position_mountain_pose.webp</image>
+    </pose>
+
+    <pose>
+        <name>Downward Dog</name>
+        <description>
+            Downward Dog, or Adho Mukha Svanasana, is a rejuvenating stretch that targets the entire body. 
+            Begin on your hands and knees, then lift your hips toward the ceiling, forming an inverted V 
+            shape with your body. Press your hands into the ground, lengthen your spine, and straighten your 
+            legs as much as possible. This pose stretches the arms, shoulders, hamstrings, calves, and arches 
+            of the feet. It also strengthens the arms and legs, improves circulation, and calms the mind.
+        </description>
+        <benefits>
+            Downward Dog stretches and strengthens the arms, shoulders, hamstrings, calves, and arches 
+            of the feet. It also improves circulation, relieves stress, and calms the mind.
+        </benefits>
+        <difficulty>Easy</difficulty>
+        <image>position_downward_dog.webp</image>
+    </pose>
+
+    <pose>
+        <name>Warrior I</name>
+        <description>
+            Warrior I, or Virabhadrasana I, is a powerful standing pose that builds strength and stability in the 
+            legs and core. Begin in Mountain Pose, then step one foot back and turn it slightly outward. Bend the 
+            front knee deeply, keeping it aligned over the ankle, and reach the arms overhead. Square the hips toward 
+            the front of the mat and gaze forward. This pose stretches the hip flexors, strengthens the legs and core, 
+            and improves focus and concentration. It also cultivates a sense of inner strength and resilience.
+        </description>
+        <benefits>
+            Warrior I strengthens and stabilizes the legs and core, stretches the hip flexors, and improves focus 
+            and concentration. It also promotes inner strength and resilience.
+        </benefits>
+        <difficulty>Easy</difficulty>
+        <image>position_warriorI.webp</image>
+    </pose>
+
+    <pose>
+        <name>Warrior II</name>
+        <description>
+            Warrior II, or Virabhadrasana II, is a dynamic standing pose that strengthens the legs and 
+            opens the hips and chest. Begin in Mountain Pose, then step one foot back and turn it 
+            perpendicular to the front foot. Bend the front knee deeply, keeping it aligned over the 
+            ankle, and extend the arms parallel to the ground, reaching actively in opposite directions. 
+            Gaze over the front fingertips. This pose builds endurance and stamina, improves balance and 
+            concentration, and enhances overall body awareness.
+        </description>
+        <benefits>
+            Warrior II strengthens the legs, opens the hips and chest, improves balance and concentration, 
+            and enhances body awareness. It also builds endurance and stamina.
+        </benefits>
+        <difficulty>Intermediate</difficulty>
+        <image>position_warriorII.png</image>
+    </pose>
+
+    <pose>
+        <name>Triangle Pose</name>
+        <description>
+            Triangle Pose, or Trikonasana, is a classic standing pose that stretches the legs and torso, 
+            mobilizes the hips, and promotes deep breathing. Begin in Mountain Pose, then step one foot 
+            back and turn it slightly inward. Extend the arms parallel to the ground, then hinge at the 
+            hip and reach the front hand toward the front foot, placing it on the shin, ankle, or floor. 
+            Gaze up at the top hand. This pose strengthens the legs, stretches the hamstrings and hips, 
+            and improves balance and focus. It also stimulates the abdominal organs and aids digestion.
+        </description>
+        <benefits>
+            Triangle Pose stretches and strengthens the legs, mobilizes the hips, and improves balance 
+            and focus. It also stimulates the abdominal organs, aids digestion, and promotes deep breathing.
+        </benefits>
+        <difficulty>Intermediate</difficulty>
+        <image>position_triangle_pose.jpg</image>
+    </pose>
+
+    <pose>
+        <name>Tree Pose</name>
+        <description>
+            Tree Pose, or Vrksasana, is a balancing pose that strengthens the legs, hips, and core, 
+            while opening the hips and improving concentration. Begin in Mountain Pose, then shift your 
+            weight onto one foot and lift the opposite foot to the inner thigh or calf, avoiding the 
+            knee. Press the foot into the leg and the leg into the foot, engage the core, and bring the 
+            hands to prayer position at the heart or extend them overhead. This pose improves balance and 
+            stability, strengthens the ankles and knees, and increases self-confidence and poise.
+        </description>
+        <benefits>
+            Tree Pose improves balance and stability, strengthens the legs, hips, and core, and increases 
+            self-confidence and poise. It also opens the hips, stretches the inner thighs, and enhances concentration and focus.
+        </benefits>
+        <difficulty>Hard</difficulty>
+        <image>position_tree_pose.png</image>
+    </pose>
+
+    <pose>
+        <name>Seated Forward Bend</name>
+        <description>
+            Seated Forward Bend, or Paschimottanasana, is a calming seated pose that stretches the 
+            spine and hamstrings, and soothes the mind. Sit on the floor with legs extended and feet 
+            flexed. Inhale to lengthen the spine, then exhale to fold forward from the hips, reaching 
+            for the feet or shins. Keep the spine long and avoid rounding the back. This pose relieves 
+            stress and anxiety, stimulates the liver and kidneys, and improves digestion and elimination. 
+            It also calms the nervous system and promotes relaxation.
+        </description>
+        <benefits>
+            Seated Forward Bend stretches the spine and hamstrings, relieves stress and anxiety, and 
+            improves digestion and elimination. It also calms the nervous system, promotes relaxation, 
+            and stimulates the liver and kidneys.
+        </benefits>
+        <difficulty>Easy</difficulty>
+        <image>position_seated_forward_bend.webp</image>
+    </pose>
+
+    <pose>
+        <name>Child's Pose</name>
+        <description>
+            Child's Pose, or Balasana, is a restorative pose that gently stretches the back, 
+            hips, thighs, and ankles, while calming the nervous system and promoting relaxation. 
+            Begin on your hands and knees, then sit back on your heels, bringing your forehead to 
+            the mat and arms extended in front or alongside the body. Relax your forehead, neck, and 
+            shoulders, and breathe deeply into the back body. This pose releases tension in the spine, 
+            shoulders, and neck, relieves back and neck pain, and soothes the mind. It also stimulates 
+            the third eye and crown chakras, promoting introspection and spiritual connection.
+        </description>
+        <benefits>
+        Child's Pose gently stretches the back, hips, thighs, and ankles, releases tension in the 
+        spine, shoulders, and neck, and relieves back and neck pain. It also calms the nervous system, 
+        soothes the mind, and promotes introspection and spiritual connection.
+        </benefits>
+        <difficulty>Hard</difficulty>
+        <image>position_childs_pose.jpg</image>
+    </pose>
+
+    <pose>
+        <name>Bridge Pose</name>
+        <description>
+            Bridge Pose, or Setu Bandhasana, is a rejuvenating backbend that strengthens the back, 
+            buttocks, and hamstrings, while opening the chest and shoulders. Lie on your back with 
+            knees bent and feet hip-width apart, heels close to the sitting bones. Press into the feet and 
+            lift the hips toward the ceiling, engaging the glutes and hamstrings. Interlace the fingers 
+            beneath the body and roll the shoulders underneath, opening the chest. This pose stimulates the 
+            thyroid and abdominal organs, improves digestion, and reduces anxiety and depression. It also 
+            energizes the body and invigorates the mind.
+        </description>
+        <benefits>
+            Bridge Pose strengthens the back, buttocks, and hamstrings, opens the chest and shoulders, 
+            and stimulates the thyroid and abdominal organs. It also improves digestion, reduces anxiety 
+            and depression, and energizes the body and mind.
+        </benefits>
+        <difficulty>Hard</difficulty>
+        <image>position_bridge_pose.webp</image>
+    </pose>
+
+    <pose>
+        <name>Cat-Cow Pose</name>
+        <description>
+            Cat-Cow Pose, or Marjaryasana-Bitilasana, is a gentle flow between two poses that warms the 
+            body and brings flexibility to the spine. Begin on your hands and knees in a neutral tabletop 
+            position, with wrists aligned under shoulders and knees under hips. Inhale, arch the back, and 
+            lift the chest and tailbone toward the ceiling (Cow Pose). Exhale, round the back, and tuck the 
+            chin toward the chest, drawing the belly button toward the spine (Cat Pose). This flowing sequence 
+            stretches the spine, shoulders, and neck, massages the organs, and improves posture and balance.
+        </description>
+        <benefits>
+            Cat-Cow Pose warms the body, brings flexibility to the spine, and stretches the spine, shoulders, 
+            and neck. It also massages the organs, improves posture and balance, and promotes spinal health and mobility.
+        </benefits>
+        <difficulty>Easy</difficulty>
+        <image>position_cat-cow_pose.jpg</image>
+    </pose>
+
+    <pose>
+        <name>Cobra Pose</name>
+        <description>
+            Cobra Pose, or Bhujangasana, is an invigorating backbend that strengthens the spine, while 
+            stretching the chest, lungs, shoulders, and abdomen. Lie on your belly with legs extended and 
+            feet hip-width apart. Place the hands under the shoulders, elbows close to the body, and forehead 
+            on the mat. Inhale, press into the hands, and lift the chest and gaze toward the ceiling, keeping 
+            the shoulders relaxed. This pose stimulates the digestive organs, opens the heart, and improves 
+            circulation and respiration. It also relieves stress and fatigue, and uplifts the mood.
+        </description>
+        <benefits>
+            Cobra Pose strengthens the spine, stretches the chest, lungs, shoulders, and abdomen, and stimulates 
+            the digestive organs. It also improves circulation and respiration, relieves stress and fatigue, and uplifts the mood.
+        </benefits>
+        <difficulty>Intermediate</difficulty>
+        <image>position_cobra_pose.webp</image>
+    </pose>
+
+    <pose>
+        <name>Corpse Pose</name>
+        <description>
+            Corpse Pose, or Savasana, is a final relaxation pose that helps relax the body, reduce stress, 
+            and calm the mind. Lie on your back with legs extended and arms by your sides, palms facing up. 
+            Close your eyes and allow your body to completely relax into the mat, releasing any tension or 
+            effort. Breathe deeply and evenly, letting go of any thoughts or distractions. This pose promotes 
+            deep relaxation, rejuvenates the body and mind, and integrates the benefits of your yoga practice.
+        </description>
+        <benefits>
+            Corpse Pose relaxes the body, reduces stress, and calms the mind. It promotes deep relaxation, 
+            rejuvenates the body and mind, and integrates the benefits of your yoga practice.
+        </benefits>
+        <difficulty>EASY</difficulty>
+        <image>position_corpse_pose.webp</image>
+    </pose>
+
+    <pose>
+        <name>Seated Wide Straddle</name>
+        <description>
+            Seated Wide Straddle, or Upavistha Konasana, is a seated forward bend that stretches the inner 
+            thighs, groins, and hamstrings. Sit on the floor with legs extended wide, toes pointing up, and 
+            hands behind the hips for support. Inhale to lengthen the spine, then exhale to fold forward from 
+            the hips, keeping the spine long and leading with the chest. Hold onto the feet or shins, and relax 
+            the head and neck. This pose improves flexibility in the hips and legs, stimulates the abdominal 
+            organs, and calms the mind.
+        </description>
+        <benefits>
+            Seated Wide Straddle stretches the inner thighs, groins, and hamstrings, improves flexibility in 
+            the hips and legs, and stimulates the abdominal organs. It also calms the mind, relieves anxiety, 
+            and improves circulation. Seated Wide Straddle is especially beneficial for athletes, dancers, and 
+            individuals with tight hips and hamstrings.
+        </benefits>
+        <difficulty>Hard</difficulty>
+        <image>position_seated_wide_straddle.webp</image>
+    </pose>
+
+    <pose>
+        <name>Half Lord of the Fishes</name>
+        <description>
+            Half Lord of the Fishes, or Ardha Matsyendrasana, is a seated twist that improves spinal 
+            mobility and digestion. Begin in a seated position with legs extended. Bend the right knee and 
+            place the right foot outside the left thigh. Bring the left foot to the outside of the right hip. 
+            Inhale to lengthen the spine, then exhale to twist to the right, bringing the left elbow to the 
+            outside of the right knee. Place the right hand behind the back for support. This pose massages the 
+            abdominal organs, stimulates digestion, and detoxifies the body. It also stretches the spine, shoulders, 
+            and hips, and improves posture.
+        </description>
+        <benefits>
+            Half Lord of the Fishes improves spinal mobility, digestion, and detoxification. It also stretches 
+            the spine, shoulders, and hips, massages the abdominal organs, and improves posture.
+        </benefits>
+        <difficulty>Intermediate</difficulty>
+        <image>position_half_lord_of_the_fishes.webp</image>
+    </pose>
+
+    <pose>
+        <name>Knees, Chest, and Chin</name>
+        <description>
+            Knees, Chest, and Chin, or Ashtanga Namaskara, is a transitional pose that strengthens the 
+            arms, chest, and core. Begin in Plank Pose, then exhale as you lower the knees, chest, and chin 
+            to the mat, keeping the elbows close to the body. The hips remain lifted. This pose prepares the 
+            body for backbends and inversions, builds upper body strength, and improves flexibility in the spine 
+            and shoulders. It also calms the mind and relieves stress and fatigue.
+        </description>
+        <benefits>
+            Knees, Chest, and Chin strengthens the arms, chest, and core, prepares the body for backbends and 
+            inversions, and improves flexibility in the spine and shoulders. It also calms the mind and relieves 
+            stress and fatigue.
+        </benefits>
+        <difficulty>Hard</difficulty>
+        <image>position_knees_chest_and_chin.png</image>
+    </pose>
+
+    <pose>
+        <name>Plank Pose</name>
+        <description>
+            Plank Pose, or Phalakasana, is a foundational yoga pose that strengthens the core, arms, and shoulders. 
+            Begin in a push-up position with hands shoulder-width apart and arms straight. Engage the core, keep 
+            the body in a straight line from head to heels, and hold the pose for several breaths. Keep the shoulders 
+            stacked over the wrists and the neck long. This pose builds stability and endurance, improves posture, 
+            and tones the entire body. It also supports proper alignment and enhances overall strength and stamina.
+        </description>
+        <benefits>
+            Plank Pose strengthens the core, arms, and shoulders, builds stability and endurance, and tones the 
+            entire body. It also improves posture, supports proper alignment, and enhances overall strength and stamina.
+        </benefits>
+        <difficulty>Intermediate</difficulty>
+        <image>position_plank_pose.webp</image>
+    </pose>
+
+    <pose>
+        <name>Dog Split</name>
+        <description>
+            Dog Split, or Eka Pada Adho Mukha Svanasana, is an advanced variation of Downward Dog that increases 
+            flexibility and strengthens the core and legs. Begin in Downward Dog, then lift one leg toward the 
+            ceiling, keeping the hips square. Press through the hands evenly and engage the core to maintain stability. 
+            This pose stretches the hamstrings, calves, and hip flexors, while toning the abdominal muscles and improving 
+            balance and coordination.
+        </description>
+        <benefits>
+            Dog Split increases flexibility in the hamstrings, calves, and hip flexors, strengthens the core and 
+            legs, and improves balance and coordination. It also calms the mind and relieves stress and anxiety.
+        </benefits>
+        <difficulty>Hard</difficulty>
+        <image>position_dog_split.png</image>
+    </pose>
+
+    <pose>
+        <name>Low Lunge</name>
+        <description>
+            Low Lunge, or Anjaneyasana, is a dynamic yoga pose that stretches the hip flexors, quadriceps, and 
+            groin muscles, while building strength and stability in the legs and core. Begin in Downward Dog, 
+            then step one foot forward between the hands. Lower the back knee to the mat and untuck the toes, 
+            sinking the hips forward and down. Keep the front knee aligned over the ankle and the spine long. This 
+            pose opens the chest and heart, improves balance and coordination, and relieves tension in the hips and thighs.
+        </description>
+        <benefits>
+            Low Lunge stretches the hip flexors, quadriceps, and groin muscles, builds strength and stability in 
+            the legs and core, and improves balance and coordination. It also opens the chest and heart, relieves 
+            tension in the hips and thighs, and calms the mind.
+        </benefits>
+        <difficulty>Intermediate</difficulty>
+        <image>position_low_lunge.png</image>
+    </pose>
+
+    <pose>
+        <name>Pyramid Pose</name>
+        <description>
+            Pyramid Pose, or Parsvottanasana, is a standing forward bend that stretches the hamstrings, calves, 
+            and spine, while improving balance and concentration. Begin in Mountain Pose, then step one foot back 
+            about 3 to 4 feet and turn it slightly inward. Square the hips toward the front of the mat and fold 
+            forward over the front leg, keeping the spine long. Keep the back leg straight and the front knee slightly 
+            bent to protect the hamstring. Bring the hands to the floor or to blocks on either side of the front foot. 
+            This pose lengthens the spine, stretches the hamstrings and calves, and improves hip flexibility and balance. 
+            It also calms the mind, reduces stress and anxiety, and stimulates digestion.
+        </description>
+        <benefits>
+            Pyramid Pose stretches the hamstrings, calves, and spine, improves hip flexibility and balance, and 
+            stimulates digestion. It also calms the mind, reduces stress and anxiety, and strengthens the legs and core.
+        </benefits>
+        <difficulty>Hard</difficulty>
+        <image>position_pyramid_pose.png</image>
+    </pose>
+
+    <pose>
+        <name>Half Forward Bend</name>
+        <description>
+            Half Forward Bend, or Ardha Uttanasana, is a standing forward bend that stretches the spine, hamstrings, 
+            and calves, while relieving tension and stress. Begin in Mountain Pose, then exhale and hinge forward from 
+            the hips, keeping the spine long and the chest open. Bring the hands to the shins, thighs, or the floor, 
+            depending on your flexibility. Keep the knees slightly bent if necessary to protect the lower back. This pose lengthens the spine, stretches the hamstrings and calves, and improves posture and alignment. It also calms the mind and reduces fatigue and anxiety.
+        </description>
+        <benefits>
+            Half Forward Bend stretches the spine, hamstrings, and calves, improves posture and alignment, 
+            and relieves tension and stress. It also calms the mind, reduces fatigue and anxiety, and strengthens the legs and core.
+        </benefits>
+        <difficulty>Hard</difficulty>
+        <image>position_half_forward_bend.webp</image>
+    </pose>
+</poses>
+
+
+

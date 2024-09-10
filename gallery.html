@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="gallery.css">
+    <title>Gallery - Diwata Yoga</title>
+</head>
+<body>
+
+    <!-- nav bar -->
+    <header>
+        <nav class="sticky-nav">
+            <div class="logo">
+                <a href="index.html"><img src="logo_diwata_yoga.png" alt="Diwata Yoga Logo"></a>
+            </div>
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="information.html">INFORMATION</a></li>
+                <li><a href="search.php">SEARCH</a></li>
+                <li><a href="gallery.html" class="active">GALLERY</a></li>
+                <li><a href="aboutus.html">ABOUT US</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- gallery intro -->
+    <div class="gallery-intro" style="margin: 0;">
+        <h1 class="gi-header">Gallery</h1>
+        <p>Explore our gallery featuring mesmerizing images from our yoga sessions and events.</p>
+        <div class="category-buttons">
+            <button onclick="filterImages('all')" class="active">All</button>
+            <button onclick="filterImages('yogapost')">Yoga Posts</button>
+            <button onclick="filterImages('yogagroups')">Yoga Groups</button>
+            <button onclick="filterImages('instructors')">Instructors</button>
+            <button onclick="filterImages('position')">Positions</button>
+        </div>
+    </div>
+
+    <!-- image cards -->
+    <div class="image-cards">
+
+        <!-- yoga post -->
+        <div class="image-card yogapost">
+            <a href="pose_camatkarasana.jpg" target="_blank"><img src="pose_camatkarasana.jpg" alt="Camatkarasana Photo"></a>
+            <h2>Camatkarasana</h2>
+        </div>
+        <div class="image-card yogapost">
+            <a href="pose_warriorI.jpg" target="_blank"><img src="pose_warriorI.jpg" alt="Warrior I Photo"></a>
+            <h2>Warrior I </h2>
+        </div>
+        <div class="image-card yogapost">
+            <a href="pose_marichyasana_c.jpg" target="_blank"><img src="pose_marichyasana_c.jpg" alt="Marichyasana C Photo"></a>
+            <h2>Marichyasana C</h2>
+        </div>
+        <div class="image-card yogapost">
+            <a href="pose_warriorIII.jpg" target="_blank"><img src="pose_warriorIII.jpg" alt="Warrior III Photo"></a>
+            <h2>Warrior III</h2>
+        </div>
+        <div class="image-card yogapost">
+            <a href="pose_skandasana.jpg" target="_blank"><img src="pose_skandasana.jpg" alt="Skandasana Photo"></a>
+            <h2>Skandasana</h2>
+        </div>
+
+        <!-- yoga groups -->
+        <div class="image-card yogagroups">
+            <a href="yogagroup1.jpg" target="_blank"><img src="yogagroup1.jpg" alt="Yoga Group 1"></a>
+            <h2>Yoga Group 1</h2>
+        </div>
+        <div class="image-card yogagroups">
+            <a href="yogagroup2.jpeg" target="_blank"><img src="yogagroup2.jpeg" alt="Yoga Group 2"></a>
+            <h2>Yoga Group 2</h2>
+        </div>
+
+        <!-- instructors -->
+        <div class="image-card instructors">
+            <a href="instructor_esther_ekhart.jpg" target="_blank"><img src="instructor_esther_ekhart.jpg" alt="Esther Ekhart's Photo"></a>
+            <h2>Esther Ekhart</h2>
+        </div>
+        <div class="image-card instructors">
+            <a href="instructor_david_lurey.jpg" target="_blank"><img src="instructor_david_lurey.jpg" alt="David Lurey's Photo"></a>
+            <h2>David Lurey</h2>
+        </div>
+        <div class="image-card instructors">
+            <a href="instructor_julie_martin.jpg" target="_blank"><img src="instructor_julie_martin.jpg" alt="Julie Martin's Photo"></a>
+            <h2>Julie Martin</h2>
+        </div>
+        <div class="image-card instructors">
+            <a href="instructor_david_kam.jpg" target="_blank"><img src="instructor_david_kam.jpg" alt="David Kam's Photo"></a>
+            <h2>David Kam</h2>
+        </div>
+        <!-- thumbnails -->
+        <div class="image-card position">
+            <a href="position_mountain_pose.webp" target="_blank"><img src="position_mountain_pose.webp" alt="Mountain Pose"></a>
+            <h2>Mountain Pose</h2>
+        </div>
+        <div class="image-card position">
+            <a href="position_downward_dog.webp" target="_blank"><img src="position_downward_dog.webp" alt="Downward Dog"></a>
+            <h2>Downward Dog</h2>
+        </div>
+        <div class="image-card position">
+            <a href="position_warriorI.webp" target="_blank"><img src="position_warriorI.webp" alt="Warrior I"></a>
+            <h2>Warrior I</h2>
+        </div>
+        <div class="image-card position">
+            <a href="position_warriorII.png" target="_blank"><img src="position_warriorII.png" alt="Warrior II"></a>
+            <h2>Warrior II</h2>
+        </div>
+        <div class="image-card position">
+            <a href="position_triangle_pose.jpg" target="_blank"><img src="position_triangle_pose.jpg" alt="Triangle Pose"></a>
+            <h2>Triangle Pose</h2>
+        </div>
+        <div class="image-card position">
+            <a href="position_tree_pose.png" target="_blank"><img src="position_tree_pose.png" alt="Tree Pose"></a>
+            <h2>Tree Pose</h2>
+        </div>
+        <div class="image-card position">
+            <a href="position_seated_forward_bend.webp" target="_blank"><img src="position_seated_forward_bend.webp" alt="Seated Forward Bend"></a>
+            <h2>Seated Forward Bend</h2>
+        </div>
+        <div class="image-card position">
+            <a href="position_childs_pose.jpg" target="_blank"><img src="position_childs_pose.jpg" alt="Child's Pose"></a>
+            <h2>Child's Pose</h2>
+        </div>
+        <div class="image-card position">
+            <a href="position_bridge_pose.webp" target="_blank"><img src="position_bridge_pose.webp" alt="Bridge Pose"></a>
+            <h2>Bridge Pose</h2>
+        </div>
+        <div class="image-card position">
+            <a href="position_cat-cow_pose.jpg" target="_blank"><img src="position_cat-cow_pose.jpg" alt="Cat-Cow Pose"></a>
+            <h2>Cat-Cow Pose</h2>
+        </div>
+        <div class="image-card position">
+            <a href="position_cobra_pose.webp" target="_blank"><img src="position_cobra_pose.webp" alt="Cobra Pose"></a>
+            <h2>Cobra Pose</h2>
+        </div>
+        <div class="image-card position">
+            <a href="position_corpse_pose.webp" target="_blank"><img src="position_corpse_pose.webp" alt="Corpse Pose"></a>
+            <h2>Corpse Pose</h2>
+        </div>
+        <div class="image-card position">
+            <a href="position_seated_wide_straddle.webp" target="_blank"><img src="position_seated_wide_straddle.webp" alt="Seated Wide Straddle"></a>
+            <h2>Seated Wide Straddle</h2>
+        </div>
+        <div class="image-card position">
+            <a href="position_half_lord_of_the_fishes.webp" target="_blank"><img src="position_half_lord_of_the_fishes.webp" alt="Half Lord of the Fishes"></a>
+            <h2>Half Lord of the Fishes</h2>
+        </div>
+        <div class="image-card position">
+            <a href="position_knees_chest_and_chin.png" target="_blank"><img src="position_knees_chest_and_chin.png" alt="Knees, Chest, and Chin"></a>
+            <h2>Knees, Chest, and Chin</h2>
+        </div>
+        <div class="image-card position">
+            <a href="position_plank_pose.webp" target="_blank"><img src="position_plank_pose.webp" alt="Plank Pose"></a>
+            <h2>Plank Pose</h2>
+        </div>
+        <div class="image-card position">
+            <a href="position_dog_split.png" target="_blank"><img src="position_dog_split.png" alt="Dog Split"></a>
+            <h2>Dog Split</h2>
+        </div>
+        <div class="image-card position">
+            <a href="position_low_lunge.png" target="_blank"><img src="position_low_lunge.png" alt="Low Lunge"></a>
+            <h2>Low Lunge</h2>
+        </div>
+        <div class="image-card position">
+            <a href="position_pyramid_pose.png" target="_blank"><img src="position_pyramid_pose.png" alt="Pyramid Pose"></a>
+            <h2>Pyramid Pose</h2>
+        </div>
+        <div class="image-card position">
+            <a href="position_half_forward_bend.webp" target="_blank"><img src="position_half_forward_bend.webp" alt="Half Forward Bend"></a>
+            <h2>Half Forward Bend</h2>
+        </div>
+    </div>
+
+    <script>
+        function filterImages(category) {
+            const cards = document.querySelectorAll('.image-card');
+            cards.forEach(card => {
+                if (category === 'all' || card.classList.contains(category)) {
+                    card.style.display = 'block';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        }
+
+        document.addEventListener("DOMContentLoaded", function() {
+            const categoryButtons = document.querySelectorAll('.category-buttons button');
+
+            categoryButtons.forEach(button => {
+                button.addEventListener('click', function() {
+
+                    categoryButtons.forEach(btn => {
+                        btn.classList.remove('active');
+                    });
+                    this.classList.add('active');
+                });
+            });
+        });
+
+    </script>
+
+</body>
+</html>
