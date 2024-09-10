@@ -349,6 +349,7 @@ header {
     background-color: #D6E5E3;
     color: #1C2735;
     transition: transform 0.5s ease-in-out;
+    overflow:hidden;
 }
 
 .contact-section:hover .cs-header{
